@@ -1,0 +1,17 @@
+	 WELCOME IN MINI SHOP
+ BILL NUMBER:3549
+ CUSTOMER NAME:Nikhil
+ PHONE NUMBER:8398841118
+ E-mail:ahujanikhil342@gmail.com
+=================================================
+
+ PRODUCTS			QTY	PRICE
+================================================= LEVIS		2		5000
+ iphone 15		2		5000
+
+=================================================
+
+ SUB AMOUNT:			Rs.10000.00
+ TAX AMAOUNT:			Rs.75.00
+ TOTAL AMOUNT:			Rs.10075.00
+=================================================
